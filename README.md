@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Introduction Video](https://youtu.be/LCSyyrT7GcY)
+[Demo Video](https://youtu.be/LCSyyrT7GcY)
 
 [Facebook Post](https://www.facebook.com/openhci/photos/pb.100057624692945.-2207520000./5433225003405588/?type=3)
 
